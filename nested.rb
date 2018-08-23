@@ -80,7 +80,8 @@ def adding_matz
           :languages => ["C"]
         }
      }
-     return programmer_hash[matz] = {}
+     programmer_hash[matz] = {}
+     return programmer_hash[matz]
 
 end
 
